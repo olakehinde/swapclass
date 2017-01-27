@@ -1,5 +1,5 @@
-My first git project
-====================
+My first GIT project (GIT101)
+=============================
 We setup a virtual development environmengt using vagrant for provisionning our LEMP stack.
 The tools we're developing with are as follows:
 
